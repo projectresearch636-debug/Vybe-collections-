@@ -1,0 +1,12 @@
+Automated controlled-workflow test: created branch and committed a benign test file. No merge will be performed without approval.
+
+This Draft PR was opened by GitHub Copilot as part of a controlled-test to validate branch creation and commit capabilities.
+
+Actions/CI: None detected for this branch at creation time.
+
+Next steps:
+- Confirm CI or workflow permissions if you expect automations to run on PRs.
+- Review the branch and approve/close per governance.
+
+Agent: GitHub Copilot
+Branch: agent/github-link01-controlled-workflow
