@@ -21,7 +21,7 @@ OWNER="projectresearch636-debug"
 REPO="Vybe-collections-"
 BRANCH="agent/github-link01-controlled-workflow"
 BASE="main"
-HEAD_COMMIT="4639e38d3d3d68f9452164e46cb934e5272d2484"
+HEAD_COMMIT="116b3e5ea6b9e502009cf3204361ddb941b493cc"
 
 GHTOKEN="${GHTOKEN:-}"
 
@@ -166,6 +166,7 @@ echo "=============================================="
 echo " MERGE SAFETY"
 echo "=============================================="
 echo
+
 echo "🟢 No merge operation was performed."
 echo "🟢 main was not directly modified by this script."
 echo "🟢 Draft PR remains available for governance review."
@@ -176,6 +177,7 @@ echo "=============================================="
 echo " CEO HQ P0 VERIFICATION COMPLETE"
 echo "=============================================="
 echo
+
 echo "PR #$pr_number"
 echo "$pr_url"
 echo
