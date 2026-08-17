@@ -1,0 +1,10 @@
+CEO HQ LINK01 Controlled Acceptance Test
+
+Repository: projectresearch636-debug/Vybe-collections-
+Branch: agent/github-link01-controlled-workflow
+
+This file was created by an automated acceptance test to validate write access for Link 01.
+
+Timestamp: 2026-08-17T00:00:00Z
+
+Commit: test: execute CEO HQ Link 01 controlled acceptance write
