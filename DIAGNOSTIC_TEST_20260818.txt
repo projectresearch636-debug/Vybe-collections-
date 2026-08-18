@@ -1,0 +1,15 @@
+DIAGNOSTIC TEST FILE
+=====================
+
+Created: 2026-08-18
+Purpose: Root-cause isolation for Contents API authorization on test branch
+Branch: test/github-branch-authorization-20260818
+Target: Determine if Contents API write succeeds on non-dept/* branch
+
+This file tests whether the GitHub integration can write Contents to an existing branch that is NOT in the dept/* namespace.
+
+Result will indicate whether the 403 error on dept/it-ai-automation is:
+- Branch-specific restriction (test branch write succeeds)
+- Or broader integration/policy issue (test branch write also fails)
+
+Diagnostic session: CEO HQ Phase 01 Root-Cause Isolation
