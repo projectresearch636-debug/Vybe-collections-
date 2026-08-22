@@ -1,0 +1,39 @@
+name: Governance Validation
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+concurrency:
+  group: governance-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  governance:
+    name: Governance Validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate governance structure
+        run: |
+          echo "Validating repository governance structure..."
+
+          test -d ".github" || {
+            echo "::error::.github directory is missing."
+            exit 1
+          }
+
+          test -d ".github/workflows" || {
+            echo "::error::.github/workflows directory is missing."
+            exit 1
+          }
+
+          echo "Governance structure validation completed successfully."
