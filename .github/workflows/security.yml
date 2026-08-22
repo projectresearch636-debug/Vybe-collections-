@@ -1,0 +1,38 @@
+name: Security Baseline
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "30 2 * * 1"
+
+permissions:
+  contents: read
+  security-events: write
+
+concurrency:
+  group: security-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  security:
+    name: Security Validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check for accidentally committed secrets
+        run: |
+          echo "Running basic repository security validation..."
+          if find . -type f \
+            -not -path './.git/*' \
+            -not -path './node_modules/*' \
+            -name '*.env' | grep -q .; then
+            echo "::error::Potential .env file detected."
+            exit 1
+          fi
+          echo "Security baseline validation completed."
