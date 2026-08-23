@@ -1,0 +1,222 @@
+# Finance & Product Costing Baseline v1
+
+## 1. Purpose
+
+Establish a controlled financial framework for calculating product costs, pricing, gross margins, and commercial viability at Vybe Collections.
+
+## 2. Objectives
+
+- Establish consistent product costing.
+- Improve gross-margin visibility.
+- Support disciplined pricing decisions.
+- Prevent uncontrolled cost escalation.
+- Connect product development decisions with financial outcomes.
+- Provide reliable financial inputs for production and sales planning.
+
+## 3. Scope
+
+This baseline covers:
+
+Product Concept → BOM → Material Cost → Manufacturing Cost → Packaging → Logistics → Other Direct Costs → Total Product Cost → Pricing → Gross Margin → Commercial Approval
+
+## 4. Product Cost Components
+
+Product costing should consider, where applicable:
+
+- Fabric/material
+- Trims and components
+- Labor
+- Manufacturing
+- Printing/embroidery
+- Washing/finishing
+- Packaging
+- Quality/inspection
+- Freight/logistics
+- Duties/taxes where applicable
+- Other directly attributable costs
+
+## 5. Costing Ownership
+
+### Finance
+- Cost model
+- Cost validation
+- Margin calculation
+- Financial approval
+
+### Product Development
+- Product specifications
+- BOM accuracy
+- Development inputs
+
+### Sourcing
+- Material pricing
+- Supplier quotations
+- Material availability
+
+### Manufacturing
+- Manufacturing cost
+- Production assumptions
+- Capacity considerations
+
+### CEO Headquarters
+- Strategic pricing decisions
+- Major margin exceptions
+- Significant financial commitments
+
+## 6. Costing Process
+
+1. Product specification established.
+2. BOM prepared.
+3. Material costs obtained.
+4. Manufacturing costs obtained.
+5. Other applicable direct costs identified.
+6. Total product cost calculated.
+7. Target selling price established.
+8. Gross margin calculated.
+9. Commercial viability reviewed.
+10. Required approval obtained.
+
+## 7. Pricing
+
+Pricing decisions should consider:
+
+- Total product cost
+- Target gross margin
+- Customer positioning
+- Competitive environment
+- Distribution channel
+- Taxes and applicable charges
+- Promotional strategy
+- Expected returns/discounts where relevant
+
+Pricing must not be based solely on competitor pricing.
+
+## 8. Gross Margin
+
+Gross margin should be calculated using approved company accounting definitions.
+
+No target margin should be invented without executive or financial approval.
+
+Actual margins must be based on verified cost and revenue data.
+
+## 9. Cost Change Control
+
+Material changes to:
+
+- Fabric
+- Components
+- Manufacturing
+- Packaging
+- Logistics
+- Product specifications
+- Supplier pricing
+
+must trigger a costing review where the change could affect product economics.
+
+## 10. Approval Gates
+
+### G0 — Costing Initiated
+Product information available.
+
+### G1 — Preliminary Cost
+Initial cost estimate prepared.
+
+### G2 — Validated Cost
+Material and manufacturing inputs validated.
+
+### G3 — Margin Review
+Target pricing and margin assessed.
+
+### G4 — Commercial Approval
+Required financial approval obtained.
+
+### G5 — Production Cost Confirmation
+Final production assumptions confirmed.
+
+## 11. Core KPIs
+
+The department shall establish measurement for:
+
+- Cost variance
+- Target-cost achievement
+- Gross margin
+- Gross-margin variance
+- Cost per product
+- Material cost percentage
+- Manufacturing cost percentage
+- Pricing variance
+- Supplier price variance
+- Product profitability
+
+No KPI values shall be fabricated.
+
+## 12. Financial Risks
+
+Key risks include:
+
+- Inaccurate BOM
+- Supplier price changes
+- Material price volatility
+- Manufacturing cost escalation
+- Logistics cost increases
+- Incorrect pricing
+- Margin erosion
+- Uncontrolled discounting
+- Incomplete cost allocation
+
+## 13. Risk Controls
+
+Risk shall be reduced through:
+
+- Verified supplier quotations
+- Controlled BOMs
+- Periodic cost reviews
+- Documented assumptions
+- Cost-change approval
+- Margin validation
+- Financial reporting
+- Cross-functional review
+
+## 14. Decision Rights
+
+Finance owns financial validation within its approved authority.
+
+Major pricing decisions, material financial commitments, and significant margin exceptions must be escalated to CEO Headquarters.
+
+## 15. Evidence Standard
+
+Financial reports must distinguish between:
+
+- Estimated
+- Quoted
+- Validated
+- Approved
+- Actual
+- Forecast
+- Variance
+- Blocked
+
+Unsupported financial claims must not be treated as verified.
+
+## 16. Definition of Commercial Readiness
+
+A product is commercially ready when:
+
+- Product cost is sufficiently validated.
+- Pricing has been established.
+- Gross margin has been assessed.
+- Major cost risks are identified.
+- Required financial approvals are documented.
+
+## 17. Review
+
+This baseline should be reviewed as operational data becomes available and updated through the company's controlled governance process.
+
+## 18. Status
+
+Document: Finance & Product Costing Baseline v1
+Department: Finance & Accounting
+Organization: Vybe Collections
+Executive Authority: CEO Headquarters
+Status: Baseline for controlled implementation
+Version: v1.0
