@@ -61,5 +61,5 @@ Proposed targets remain **Proposed** until CEO HQ reviews:
 - Cross-department dependencies
 
 ## Notes
-
+synthetic Finance KPI baseline demo data
 TBD
