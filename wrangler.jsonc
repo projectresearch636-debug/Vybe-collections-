@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "vybe-collections",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-25",
+  "assets": {
+    "directory": "./public"
+  }
+}
