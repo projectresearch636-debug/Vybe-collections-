@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "currency": "INR",
+  "products": [
+    {
+      "id": "VYBE-TBD-001",
+      "sku": "VYBE-TBD-001",
+      "name": "Essential Tee",
+      "collection": "Core Collection",
+      "category": "T-Shirts",
+      "description": "Product description to be finalized.",
+      "material": "To be confirmed",
+      "colors": [],
+      "sizes": [],
+      "price": null,
+      "images": [],
+      "inventory": 0,
+      "status": "draft",
+      "seo": {
+        "title": "Essential Tee | Vybe Collections",
+        "description": "Product description to be finalized."
+      }
+    }
+  ]
+}
