@@ -1103,3 +1103,318 @@ Each department should subsequently establish:
 **Status:** ACTIVE
 
 **Authority:** CEO Headquarters
+# 41. DEPARTMENT OPERATING SYSTEM
+
+The Department Operating System converts the company-wide department-linking framework into measurable execution.
+
+Every department operates through the same management cycle:
+
+STRATEGY → OBJECTIVES → OKRs → KPI TARGETS → MONTHLY PRIORITIES → WEEKLY ACTIONS → REPORTING → REVIEW → CORRECTIVE ACTION
+
+---
+
+# 42. COMPANY-WIDE OPERATING CYCLE
+
+## Annual
+
+Each department establishes:
+
+- Annual objectives
+- Strategic priorities
+- Resource requirements
+- Major initiatives
+- KPI targets
+- Principal risks
+
+## Quarterly
+
+Each department establishes:
+
+- Quarterly OKRs
+- Key initiatives
+- KPI targets
+- Dependencies
+- Resource requirements
+- Risk mitigation actions
+
+## Monthly
+
+Each department establishes:
+
+- Monthly priorities
+- KPI review
+- Project status
+- Budget status
+- Risks
+- Corrective actions
+
+## Weekly
+
+Each department reports:
+
+- Completed actions
+- Current priorities
+- KPI movement
+- Blockers
+- Cross-department dependencies
+- Decisions required
+
+---
+
+# 43. DEPARTMENT OPERATING PLAN TEMPLATE
+
+Every department must use the following structure.
+
+## Department Identification
+
+- Department ID:
+- Department Name:
+- Department Lead:
+- Reporting Authority: CEO Headquarters
+- Reporting Frequency:
+
+## Annual Objective
+
+Define the department's primary contribution to company strategy.
+
+## Quarterly OKRs
+
+### Objective 1
+- Key Result 1:
+- Key Result 2:
+- Key Result 3:
+
+### Objective 2
+- Key Result 1:
+- Key Result 2:
+- Key Result 3:
+
+## KPI Targets
+
+| KPI | Baseline | Target | Frequency | Owner | Data Source |
+|---|---:|---:|---|---|---|
+| KPI 1 | DATA REQUIRED | TARGET REQUIRED | Weekly/Monthly | Department | DATA SOURCE REQUIRED |
+| KPI 2 | DATA REQUIRED | TARGET REQUIRED | Weekly/Monthly | Department | DATA SOURCE REQUIRED |
+| KPI 3 | DATA REQUIRED | TARGET REQUIRED | Weekly/Monthly | Department | DATA SOURCE REQUIRED |
+
+No baseline or target may be invented.
+
+Where unavailable:
+
+**DATA REQUIRED**
+
+## Monthly Priorities
+
+1. Priority 1
+2. Priority 2
+3. Priority 3
+4. Priority 4
+5. Priority 5
+
+## Weekly Execution
+
+| Week | Action | Owner | Due Date | Status | Dependency |
+|---|---|---|---|---|---|
+| Week 1 | ACTION REQUIRED | OWNER | DATE | NOT STARTED | DEPENDENCY |
+| Week 2 | ACTION REQUIRED | OWNER | DATE | NOT STARTED | DEPENDENCY |
+| Week 3 | ACTION REQUIRED | OWNER | DATE | NOT STARTED | DEPENDENCY |
+| Week 4 | ACTION REQUIRED | OWNER | DATE | NOT STARTED | DEPENDENCY |
+
+## Risks
+
+| Risk | Probability | Impact | Mitigation | Owner | Status |
+|---|---|---|---|---|---|
+| Risk 1 | TBD | TBD | ACTION REQUIRED | Department | OPEN |
+
+## Dependencies
+
+Identify:
+
+- Upstream departments
+- Downstream departments
+- Required approvals
+- Required information
+- Required technology
+- Required budget/resources
+
+## Executive Decisions Required
+
+List decisions that require CEO Headquarters approval.
+
+## Monthly Department Certification
+
+The department confirms that:
+
+- KPI data is accurate to the best available evidence.
+- Risks have been reported.
+- Dependencies have been identified.
+- Priorities are aligned with company strategy.
+- Required escalations have been submitted.
+
+---
+
+# 44. D01–D18 OPERATING PLAN REGISTRY
+
+| ID | Department | Annual Objective | Quarterly OKRs | KPI Targets | Monthly Plan | Weekly Reporting |
+|---|---|---|---|---|---|---|
+| D01 | Market Research & Business Intelligence | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D02 | Brand Strategy & Creative | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D03 | Fashion Design & Product Development | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D04 | Textile & Fabric Sourcing | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D05 | Manufacturing & Production | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D06 | Quality Assurance | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D07 | Procurement & Vendor Management | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D08 | Supply Chain & Logistics | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D09 | Finance & Accounting | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D10 | Sales & Business Development | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D11 | Marketing & Advertising | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D12 | E-commerce & Website | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D13 | Customer Service | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D14 | Human Resources | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D15 | Legal & Compliance | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D16 | IT, AI & Automation | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D17 | Data Analytics & Business Intelligence | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+| D18 | Retail & International Expansion | REQUIRED | REQUIRED | REQUIRED | REQUIRED | REQUIRED |
+
+---
+
+# 45. EXECUTIVE KPI GOVERNANCE
+
+Company-wide KPIs must be consolidated through the following hierarchy:
+
+DEPARTMENT DATA
+↓
+D17 DATA & ANALYTICS
+↓
+D09 FINANCIAL VALIDATION WHERE APPLICABLE
+↓
+CEO HEADQUARTERS
+↓
+EXECUTIVE DECISION
+
+Core company KPIs include:
+
+- Revenue
+- Gross margin
+- Net profit
+- Cash position
+- Inventory turnover
+- Manufacturing efficiency
+- Product defect rate
+- Customer satisfaction
+- Customer retention
+- Website conversion rate
+- Marketing ROI
+- Sales growth
+- Employee productivity
+- On-time delivery
+- Return rate
+
+No KPI value may be fabricated.
+
+---
+
+# 46. RED / AMBER / GREEN STATUS STANDARD
+
+## 🟢 GREEN
+
+Objective or KPI is on track.
+
+## 🟡 AMBER
+
+Objective or KPI requires management attention.
+
+## 🔴 RED
+
+Objective or KPI is materially off track or presents significant risk.
+
+## ⚪ DATA REQUIRED
+
+Reliable measurement is not yet available.
+
+---
+
+# 47. ESCALATION THRESHOLD
+
+A department must escalate an issue to CEO Headquarters when:
+
+- A critical KPI becomes RED.
+- A material deadline is at risk.
+- A major dependency is blocked.
+- A material financial commitment is required.
+- A legal/compliance concern emerges.
+- A major customer or brand risk emerges.
+- A cross-department conflict cannot be resolved.
+- A strategic objective requires modification.
+
+---
+
+# 48. EXECUTIVE REVIEW
+
+CEO Headquarters reviews departmental performance through:
+
+1. KPI performance
+2. OKR achievement
+3. Financial performance
+4. Project execution
+5. Risk exposure
+6. Cross-department dependencies
+7. Resource requirements
+8. Strategic alignment
+
+CEO Headquarters may:
+
+- Continue an initiative
+- Modify an initiative
+- Prioritize an initiative
+- Pause an initiative
+- Cancel an initiative
+- Reallocate resources
+- Escalate a risk
+- Approve additional investment
+
+---
+
+# 49. CURRENT IMPLEMENTATION STATUS
+
+| Control | Status |
+|---|---|
+| Company department framework | 🟢 ACTIVE |
+| 18 department definitions | 🟢 18/18 |
+| Accountability matrix | 🟢 ACTIVE |
+| KPI ownership | 🟢 ESTABLISHED |
+| Dependency framework | 🟢 ESTABLISHED |
+| Handoff control | 🟢 ESTABLISHED |
+| Operating system | 🟢 ESTABLISHED |
+| Department-specific objectives | ⚪ DATA REQUIRED |
+| Department-specific KPI baselines | ⚪ DATA REQUIRED |
+| Department-specific KPI targets | ⚪ DATA REQUIRED |
+| Quarterly OKRs | ⚪ DATA REQUIRED |
+| Monthly execution plans | ⚪ DATA REQUIRED |
+| Weekly execution reports | ⚪ DATA REQUIRED |
+
+---
+
+# 50. NEXT EXECUTIVE PHASE
+
+The governance architecture is established.
+
+The next phase is execution.
+
+CEO Headquarters will collect department-specific:
+
+- Objectives
+- OKRs
+- KPI baselines
+- KPI targets
+- Projects
+- Budgets
+- Risks
+- Dependencies
+- Weekly actions
+
+No unsupported targets or performance values will be invented.
+
+**Operating System Status: ACTIVE**
+
+**Authority: CEO Headquarters**
