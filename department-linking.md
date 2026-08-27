@@ -911,3 +911,195 @@ Examples:
 - New market → D01 + D09 + D15 + D18
 - Major hiring → D14 + affected department + D09
 - AI/automation deployment → D16 + affected department
+# 31. DEPARTMENT ACCOUNTABILITY MATRIX
+
+This matrix establishes the operational accountability model for all 18 departments.
+
+| ID | Department | Primary Accountability | Key Inputs | Key Outputs | Core KPI Owner |
+|---|---|---|---|---|---|
+| D01 | Market Research & Business Intelligence | Market and customer intelligence | D10, D11, D12, D13, D17 | Market insights, forecasts, opportunity reports | D01 |
+| D02 | Brand Strategy & Creative | Brand positioning and creative consistency | D01, D03, D11, D12 | Brand strategy, creative direction, assets | D02 |
+| D03 | Fashion Design & Product Development | Product creation and development | D01, D02, D04, D06, D09 | Designs, specifications, samples, approved products | D03 |
+| D04 | Textile & Fabric Sourcing | Materials and textile sourcing | D03, D06, D07, D09, D15 | Approved materials, supplier data, textile costs | D04 |
+| D05 | Manufacturing & Production | Efficient production of approved products | D03, D04, D06, D07, D08, D09 | Finished goods, production reports | D05 |
+| D06 | Quality Assurance | Product and process quality | D03, D04, D05, D07 | Quality approvals, inspections, corrective actions | D06 |
+| D07 | Procurement & Vendor Management | Supplier and purchasing performance | D04, D05, D06, D09, D15 | Purchase orders, supplier agreements, vendor reports | D07 |
+| D08 | Supply Chain & Logistics | Movement and availability of goods | D05, D06, D07, D09, D10, D12, D18 | Inventory, logistics and delivery performance | D08 |
+| D09 | Finance & Accounting | Financial control and reporting | All departments | Budgets, financial reports, cash-flow information | D09 |
+| D10 | Sales & Business Development | Revenue generation and commercial growth | D01, D02, D03, D08, D09, D11, D12 | Orders, revenue, forecasts, accounts | D10 |
+| D11 | Marketing & Advertising | Demand generation and customer acquisition | D01, D02, D10, D12, D13, D17 | Campaigns, traffic, leads, marketing performance | D11 |
+| D12 | E-commerce & Website | Digital commerce performance | D02, D03, D10, D11, D13, D16, D17 | Online sales, website performance, conversion data | D12 |
+| D13 | Customer Service | Customer satisfaction and retention | D06, D08, D10, D11, D12 | Feedback, complaints, returns, service data | D13 |
+| D14 | Human Resources | Workforce capability and organizational performance | All departments | Workforce plans, recruitment, training, HR reports | D14 |
+| D15 | Legal & Compliance | Legal and regulatory risk control | All departments | Contracts, compliance assessments, legal guidance | D15 |
+| D16 | IT, AI & Automation | Technology, automation and technical infrastructure | All departments | Systems, automation, integrations, technical services | D16 |
+| D17 | Data Analytics & Business Intelligence | Enterprise data and analytical decision support | All departments | Dashboards, analytics, forecasts, KPI reporting | D17 |
+| D18 | Retail & International Expansion | Retail and international growth | D01, D02, D08, D09, D10, D11, D15, D17 | Expansion plans, market-entry strategies, retail performance | D18 |
+
+---
+
+# 32. ACCOUNTABILITY RULES
+
+Each department is accountable for:
+
+1. Delivering its defined outputs.
+2. Maintaining the accuracy of its departmental information.
+3. Monitoring its assigned KPIs.
+4. Reporting risks and blockers.
+5. Meeting agreed reporting deadlines.
+6. Maintaining required documentation.
+7. Coordinating with dependent departments.
+8. Escalating material issues.
+9. Protecting company resources.
+10. Supporting company-wide strategic objectives.
+
+---
+
+# 33. INPUT-OUTPUT ACCOUNTABILITY
+
+Every major departmental process must have:
+
+- A defined input
+- A responsible department
+- A defined output
+- A receiving department
+- A measurable completion condition
+
+No cross-department process should depend on an undefined owner.
+
+---
+
+# 34. CROSS-DEPARTMENT HANDOFF CONTROL
+
+A departmental handoff is considered complete only when:
+
+- Required information has been delivered.
+- Required documentation is available.
+- Receiving department acknowledges the handoff.
+- Any quality or compliance requirements have been satisfied.
+- Outstanding risks are documented.
+
+---
+
+# 35. KPI ACCOUNTABILITY
+
+Each department owns the operational performance of its assigned KPIs.
+
+D17 owns the enterprise analytics and reporting layer.
+
+D09 owns financial data integrity.
+
+CEO Headquarters owns company-wide strategic interpretation.
+
+No department may report an estimated KPI as an actual measured KPI without clearly identifying the estimate.
+
+Where data is unavailable:
+
+**STATUS: DATA NOT AVAILABLE**
+
+The responsible department must identify the measurement requirement needed to establish the KPI.
+
+---
+
+# 36. RISK ACCOUNTABILITY
+
+Every department must maintain awareness of:
+
+- Financial risk
+- Operational risk
+- Quality risk
+- Supply-chain risk
+- Customer risk
+- Legal and compliance risk
+- Technology risk
+- Reputation risk
+- Strategic risk
+
+Material risks must be escalated to CEO Headquarters.
+
+---
+
+# 37. DECISION RIGHTS
+
+Departments may make decisions within their approved operational authority.
+
+CEO Headquarters approval is required for decisions involving:
+
+- Major capital expenditure
+- Material financial commitments
+- Major strategic changes
+- Significant brand changes
+- New international markets
+- Major technology investments
+- Material legal exposure
+- Major organizational restructuring
+- Cross-department conflicts that cannot be resolved operationally
+
+---
+
+# 38. DEPARTMENT LINKAGE STATUS
+
+| ID | Department | Governance Link | Technical Branch | Status |
+|---|---|---|---|---|
+| D01 | Market Research & Business Intelligence | ACTIVE | Not established | 🟡 |
+| D02 | Brand Strategy & Creative | ACTIVE | Not established | 🟡 |
+| D03 | Fashion Design & Product Development | ACTIVE | Not established | 🟡 |
+| D04 | Textile & Fabric Sourcing | ACTIVE | Not established | 🟡 |
+| D05 | Manufacturing & Production | ACTIVE | Not established | 🟡 |
+| D06 | Quality Assurance | ACTIVE | Not established | 🟡 |
+| D07 | Procurement & Vendor Management | ACTIVE | Not established | 🟡 |
+| D08 | Supply Chain & Logistics | ACTIVE | Not established | 🟡 |
+| D09 | Finance & Accounting | ACTIVE | Not established | 🟡 |
+| D10 | Sales & Business Development | ACTIVE | Not established | 🟡 |
+| D11 | Marketing & Advertising | ACTIVE | Not established | 🟡 |
+| D12 | E-commerce & Website | ACTIVE | Not established | 🟡 |
+| D13 | Customer Service | ACTIVE | Not established | 🟡 |
+| D14 | Human Resources | ACTIVE | Not established | 🟡 |
+| D15 | Legal & Compliance | ACTIVE | Not established | 🟡 |
+| D16 | IT, AI & Automation | ACTIVE | Established | 🟢 |
+| D17 | Data Analytics & Business Intelligence | ACTIVE | Not established | 🟡 |
+| D18 | Retail & International Expansion | ACTIVE | Not established | 🟡 |
+
+---
+
+# 39. EXECUTIVE CONTROL STATUS
+
+**Governance framework:** 🟢 ACTIVE
+
+**Department coverage:** 🟢 18/18
+
+**Accountability matrix:** 🟢 ACTIVE
+
+**KPI ownership model:** 🟢 ESTABLISHED
+
+**Cross-department dependency model:** 🟢 ESTABLISHED
+
+**Technical department branches:** 🟡 1/18 established
+
+**Executive authority:** 🟢 CEO Headquarters
+
+---
+
+# 40. NEXT IMPLEMENTATION PHASE
+
+The next phase is to convert the governance framework into measurable departmental operating plans.
+
+Each department should subsequently establish:
+
+- Annual objectives
+- Quarterly OKRs
+- Monthly priorities
+- Weekly actions
+- KPI targets
+- Budget requirements
+- Active projects
+- Risks
+- Dependencies
+- Required resources
+- Executive decisions required
+
+**Framework Version:** 1.1
+
+**Status:** ACTIVE
+
+**Authority:** CEO Headquarters
