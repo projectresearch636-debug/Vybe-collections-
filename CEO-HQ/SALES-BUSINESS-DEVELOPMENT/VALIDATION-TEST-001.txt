@@ -1,0 +1,17 @@
+CEO HQ — Sales & Business Development Controlled Validation
+
+Test type: Synthetic / non-production
+Real customers: NONE
+Real contracts: NONE
+Real payments: NONE
+Confidential commercial data: NONE
+Credentials or secrets: NONE
+Purpose: Validate Sales & Business Development department control-layer write capability.
+Status: CONTROLLED TEST
+Date: 2026-08-30
+
+Synthetic opportunity: TEST-OPP-001 — NOT A REAL CUSTOMER OPPORTUNITY.
+Synthetic pipeline value: 100000 INR — NOT A REAL COMMERCIAL VALUE.
+Synthetic stage: VALIDATION ONLY.
+
+Expected result: File creation and subsequent independent read-back verification.
