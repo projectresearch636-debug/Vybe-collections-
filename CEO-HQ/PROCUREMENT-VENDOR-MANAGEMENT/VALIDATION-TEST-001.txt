@@ -1,0 +1,17 @@
+CEO HQ — Procurement & Vendor Management Controlled Validation
+
+Test type: Synthetic / non-production
+Real purchase order: NONE
+Real supplier information: NONE
+Real pricing: NONE
+Payment information: NONE
+Credentials or secrets: NONE
+Purpose: Validate Procurement & Vendor Management department control-layer write capability.
+Status: CONTROLLED TEST
+Date: 2026-08-30
+
+Synthetic vendor: TEST-VENDOR-001 — NOT A REAL SUPPLIER.
+Synthetic purchase request: TEST-PR-001 — NOT A REAL PURCHASE REQUEST.
+Synthetic value: NOT A REAL COMMERCIAL VALUE.
+
+Expected result: File creation and subsequent independent read-back verification.
