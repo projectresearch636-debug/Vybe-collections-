@@ -1,0 +1,19 @@
+CEO HQ — Marketing & Advertising Controlled Validation
+
+Test type: Synthetic / non-production
+Live campaign: NONE
+Real advertising account: NONE
+Real customer audience: NONE
+Real payment method: NONE
+Confidential marketing data: NONE
+Credentials or secrets: NONE
+Purpose: Validate Marketing & Advertising department control-layer write capability.
+Status: CONTROLLED TEST
+Date: 2026-08-30
+
+Synthetic campaign: TEST-CAMPAIGN-001 — NOT A LIVE CAMPAIGN.
+Synthetic budget: 10000 INR — NOT A REAL BUDGET.
+Synthetic ROAS: 2.5x — NOT A REAL PERFORMANCE RESULT.
+Synthetic status: VALIDATION ONLY.
+
+Expected result: File creation and subsequent independent read-back verification.
